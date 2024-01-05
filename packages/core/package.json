@@ -1,0 +1,19 @@
+{
+  "name": "@kasumisoujs/single-spa",
+  "version": "1.0.0",
+  "description": "single-spa",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "father dev",
+    "build": "father build"
+  },
+  "keywords": [
+    "single-spa"
+  ],
+  "author": "asyncguo@163.com",
+  "license": "ISC"
+}
